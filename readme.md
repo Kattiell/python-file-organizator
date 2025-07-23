@@ -73,7 +73,7 @@ O **Organizador Universal** é uma ferramenta poderosa que organiza automaticame
 
 ```bash
 # Clone o repositório
-git clone https://github.com/usuario/organizador-universal.git
+git clone [https://github.com/usuario/organizador-universal.git](https://github.com/Kattiell/python-file-organizator)
 
 # Entre na pasta
 cd organizador-universal
@@ -419,14 +419,6 @@ pip install tk
 ```
 Solução: Use a versão mais recente - processamento é assíncrono
 ```
-
-### 📞 Suporte
-
-- 📧 **Email**: suporte@organizador.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/usuario/organizador-universal/issues)
-- 📖 **Wiki**: [Documentação Completa](https://github.com/usuario/organizador-universal/wiki)
-
----
 
 ## 🤝 Contribuição
 
